@@ -2,11 +2,12 @@
 
 <details>
 <summary>Manual de tradução automação</summary>
+
 ```bash
-- cd /home/chatwoot/chatwoot/app/javascript/dashboard/routes/dashboard/settings/automation/
+cd /home/chatwoot/chatwoot/app/javascript/dashboard/routes/dashboard/settings/automation/
 ```
 ```bash
-- curl -o constants.js https://raw.githubusercontent.com/doug-fsg/Tradu--o-InoveChat/master/Automa%C3%A7%C3%B5es/automa%C3%A7%C3%B5es.js
+curl -o constants.js https://raw.githubusercontent.com/doug-fsg/Tradu--o-InoveChat/master/Automa%C3%A7%C3%B5es/automa%C3%A7%C3%B5es.js
 ```
 
 ```bash
