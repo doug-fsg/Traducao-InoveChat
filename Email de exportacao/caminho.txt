@@ -1,0 +1,1 @@
+/home/chatwoot/chatwoot/app/views/mailers/administrator_notifications/channel_notifications_mailer
