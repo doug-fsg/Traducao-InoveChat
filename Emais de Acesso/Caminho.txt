@@ -1,1 +1,1 @@
- cd /home/chatwoot/chatwoot/app/views/devise/mailer
+ cd /home/chatwoot/chatwoot/app/views/devise/mailer 
