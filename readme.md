@@ -1,4 +1,7 @@
 # Tutorial
+
+<details>
+<summary>Manual de tradução automação</summary>
 ```bash
 - cd /home/chatwoot/chatwoot/app/javascript/dashboard/routes/dashboard/settings/automation/
 ```
@@ -10,14 +13,15 @@
 sudo -i -u chatwoot
 ```
 ```bash
-- cd chatwoot
+cd chatwoot
 ```
 ```bash
-- rake assets:precompile RAILS_ENV=production
+rake assets:precompile RAILS_ENV=production
 ```
 ```bash
-- exit
+exit
 ```
 ```bash
-- systemctl daemon-reload && systemctl restart chatwoot.target
+systemctl daemon-reload && systemctl restart chatwoot.target
 ```
+</details>
