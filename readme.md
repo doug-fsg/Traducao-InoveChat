@@ -53,3 +53,44 @@ exit
 systemctl daemon-reload && systemctl restart chatwoot.target
 ```
 </details>
+
+<details>
+<summary>Envia Logos</summary>
+```bash
+sudo -i -u chatwoot
+```
+```bash
+cd chatwoot/chatwoot/public
+```
+```bash
+git clone https://github.com/doug-fsg/Traducao-InoveChat.git
+```
+```bash
+cp -r Traducao-InoveChat/Logos/. /home/chatwoot/chatwoot/public
+```
+```bash
+rm -rf Traducao-InoveChat
+```
+Logo Inicial
+```bash
+cd /home/chatwoot/chatwoot/public/brand-assets
+```
+THUMBNAIL:
+```bash
+wget -O logo_thumbnail.svg https://github.com/doug-fsg/Traducao-InoveChat/raw/master/logo_thumbnail.svg
+```
+LOGO DARK:
+```bash
+wget -O logo_dark.svg https://github.com/doug-fsg/Traducao-InoveChat/raw/master/logo_dark.svg
+```
+LOGO:
+```bash
+wget -O logo.svg https://github.com/doug-fsg/Traducao-InoveChat/raw/master/logo.svg
+```
+```bash
+
+```
+```bash
+
+```
+</details>
