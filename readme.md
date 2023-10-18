@@ -91,10 +91,5 @@ LOGO:
 ```bash
 wget -O logo.svg https://github.com/doug-fsg/Traducao-InoveChat/raw/master/logo.svg
 ```
-```bash
 
-```
-```bash
-
-```
 </details>
