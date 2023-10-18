@@ -56,9 +56,11 @@ systemctl daemon-reload && systemctl restart chatwoot.target
 
 <details>
 <summary>Envia Logos</summary>
+
 ```bash
 sudo -i -u chatwoot
 ```
+
 ```bash
 cd chatwoot/chatwoot/public
 ```
