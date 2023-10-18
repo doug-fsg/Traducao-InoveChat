@@ -57,6 +57,8 @@ systemctl daemon-reload && systemctl restart chatwoot.target
 <details>
 <summary>Envia Logos</summary>
 
+### LOGO ICON
+
 ```bash
 sudo -i -u chatwoot
 ```
@@ -73,7 +75,7 @@ cp -r Traducao-InoveChat/Logos/. /home/chatwoot/chatwoot/public
 ```bash
 rm -rf Traducao-InoveChat
 ```
-**LOGO INICIAL**
+### LOGO INICIAL
 ```bash
 cd /home/chatwoot/chatwoot/public/brand-assets
 ```
