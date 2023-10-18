@@ -73,7 +73,7 @@ cp -r Traducao-InoveChat/Logos/. /home/chatwoot/chatwoot/public
 ```bash
 rm -rf Traducao-InoveChat
 ```
-Logo Inicial
+**LOGO INICIAL**
 ```bash
 cd /home/chatwoot/chatwoot/public/brand-assets
 ```
