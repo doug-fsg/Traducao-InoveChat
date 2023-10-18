@@ -1,0 +1,32 @@
+<svg id="Agrupar_1" data-name="Agrupar 1" xmlns="http://www.w3.org/2000/svg" width="10242" height="2133" viewBox="0 0 10242 2133">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 7.556px;
+        fill: #303030;
+        font-family: Poppins;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #47a7f6;
+        stroke-width: 450px;
+      }
+
+      .cls-4 {
+        fill: #43a5f6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Inovechat" class="cls-1" transform="matrix(194.904, 0, 0, 194.904, 2610.266, 1602.278)">Inove<tspan class="cls-2">chat</tspan></text>
+  <g id="Agrupar_1_copiar_3" data-name="Agrupar 1 copiar 3">
+    <circle id="Elipse_1" data-name="Elipse 1" class="cls-3" cx="1250.015" cy="1066" r="837.985"/>
+    <path id="Forma_1" data-name="Forma 1" class="cls-4" d="M1822.36,1936.75l342.7-369.76,90.19,342.7s13.94,62.78-18.04,90.19c-31.13,26.69-108.22,18.04-108.22,18.04Z"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="Agrupar_1_copiar_3" data-name="Agrupar 1 copiar 3" xmlns="http://www.w3.org/2000/svg" width="2133" height="2133" viewBox="0 0 2133 2133">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #47a7f6;
+        stroke-width: 450px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #43a5f6;
+      }
+    </style>
+  </defs>
+  <path id="Elipse_1" data-name="Elipse 1" class="cls-1" d="M1061.01,250.243c450.25,0,815.25,365.009,815.25,815.267s-365,815.27-815.25,815.27-815.257-365.01-815.257-815.27S610.754,250.243,1061.01,250.243Z"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-2" d="M1617.82,1912.64l333.41-359.73,87.74,333.41s13.57,61.07-17.55,87.74c-30.29,25.96-105.28,17.55-105.28,17.55Z"/>
+</svg>
